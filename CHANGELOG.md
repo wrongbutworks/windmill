@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.754.0](https://github.com/windmill-labs/windmill/compare/v1.753.0...v1.754.0) (2026-07-08)
+
+
+### Features
+
+* add multi-select mode to copilot askUserQuestion ([#10016](https://github.com/windmill-labs/windmill/issues/10016)) ([7569798](https://github.com/windmill-labs/windmill/commit/756979852c3245d06c5c73eb60e9a09fd59635c5))
+
+
+### Bug Fixes
+
+* **frontend:** scope raw-app, flow and script editors to the session workspace ([#10015](https://github.com/windmill-labs/windmill/issues/10015)) ([c000bbc](https://github.com/windmill-labs/windmill/commit/c000bbca283f5d61cff8a39458764b2b2dd2b58f))
+* session preview tab labels, splitter hover, and diff-drawer sizing ([#10008](https://github.com/windmill-labs/windmill/issues/10008)) ([c139eed](https://github.com/windmill-labs/windmill/commit/c139eed631548113b843b466f5505bf6a01f17d3))
+
 ## [1.753.0](https://github.com/windmill-labs/windmill/compare/v1.752.0...v1.753.0) (2026-07-08)
 
 
